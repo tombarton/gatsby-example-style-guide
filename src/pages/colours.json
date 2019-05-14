@@ -1,0 +1,43 @@
+{
+    "title": "Colours",
+    "template": "colours",
+    "path": "/colours",
+    "colours": [
+        {
+            "hexCode": "#2c3643",
+            "variableName": "darkGrey"
+        },
+        {
+            "hexCode": "#FF7134",
+            "variableName": "orange"
+        },
+        {
+            "hexCode": "#880007",
+            "variableName": "darkRed"
+        },
+        {
+            "hexCode": "#142b44",
+            "variableName": "darkBlue"
+        },
+        {
+            "hexCode": "#297CBB",
+            "variableName": "paleBlue"
+        },
+        {
+            "hexCode": "#bf538d",
+            "variableName": "plum"
+        },
+        {
+            "hexCode": "#dbe6ec",
+            "variableName": "lightGrey"
+        },
+        {
+            "hexCode": "#cfcbaf",
+            "variableName": "beige"
+        },
+        {
+            "hexCode": "#fa5e5b",
+            "variableName": "red"
+        }
+    ]
+}
